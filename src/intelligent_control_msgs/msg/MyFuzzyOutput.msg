@@ -1,0 +1,8 @@
+uint16 current_wp_index
+float64 distance_to_waypoint
+float64 cross_track_error
+float64 wave_condition
+float64 left_motor_speed
+float64 right_motor_speed
+uint16 waypoints_length
+string name
